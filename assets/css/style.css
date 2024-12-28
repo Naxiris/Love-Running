@@ -22,6 +22,10 @@ header {
     background-color: aliceblue;
 }
 
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
 /* Main content */
 main {
     background-color: antiquewhite;
@@ -32,3 +36,5 @@ main {
 footer {
     background-color: aqua;
 }
+
+/* Logo */
